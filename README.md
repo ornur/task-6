@@ -18,4 +18,4 @@ The project contains the following classes:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/graph-algorithms.git
+git clone https://github.com/ornur/graph-algorithms.git
